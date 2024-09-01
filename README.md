@@ -22,8 +22,8 @@ Using these 10 enities we will design a detailed ER model of attributes followed
 
 
 #
-The [tables.txt](https://github.com/Varalakshmijeenagala/Database_for_ICC_tournament/blob/main/icc_sample_data.txt) file contains the SQL script to create Tables.<br>
-The [sample.txt](https://github.com/Varalakshmijeenagala/Database_for_ICC_tournament/blob/main/tables.txt)  file contains the sample data for the Entites that are created.
+The [tables.txt](https://github.com/Varalakshmijeenagala/Database_for_ICC_tournament/blob/main/tables.txt) file contains the SQL script to create Tables.<br>
+The [sample.txt](https://github.com/Varalakshmijeenagala/Database_for_ICC_tournament/blob/main/icc_sample_data.txt)  file contains the sample data for the Entites that are created.
 # script file
 [project_sqlscripts.sql](https://github.com/Varalakshmijeenagala/Database_for_ICC_tournament/blob/main/project_sqlscript.sql) file contains the detailed script file to run in a SQL server to create the entire ICC database.<br>
 It is optional to add the sample data to the database.
